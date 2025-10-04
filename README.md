@@ -87,7 +87,7 @@ To develop an **interactive Power BI dashboard** that enables business analysts 
 ---
 
 ## 6. Screenshot / Dashboard Preview  
-![Blinkit Dashboard Preview](https://github.com/yourusername/yourrepo/blob/main/Screenshot%202025-10-04%20130254.png)  
+![Blinkit Dashboard Preview](https://github.com/dharanikandikonda7/Blinkit_Dashboard/blob/main/Screenshot%202025-10-04%20130254.png)  
 *(Dashboard built in Power BI using cleaned and modeled data.)*  
 
 ---
