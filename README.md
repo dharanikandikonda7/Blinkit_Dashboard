@@ -92,13 +92,6 @@ To develop an **interactive Power BI dashboard** that enables business analysts 
 
 ---
 
-## 7. File Information  
-📁 **Project File:** `powerbi_blinkit.pbix`  
-📸 **Dashboard Image:** `Screenshot 2025-10-04 130254.png`  
-🧹 **Status:** Dataset cleaned and visualized as per business requirements.  
-
----
-
 ### 👩‍💻 Author  
 **Dharani Kandikonda** 
 
